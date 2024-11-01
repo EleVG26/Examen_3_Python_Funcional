@@ -1,0 +1,68 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directorios de entornos virtuales
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+entorno_grafos/
+
+# Archivos de distribución / empaquetado
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Archivos generados por PyInstaller
+*.manifest
+*.spec
+
+# Archivos de registro (logs)
+*.log
+
+# Informes de pruebas unitarias / cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de bases de datos SQLite
+*.sqlite3
+
+# Archivos de entornos virtuales de Anaconda
+*.conda
+
+# Archivos de configuración privados
+*.env
+.env
+
+# Archivos de checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de metadatos de macOS
+._*
+
+# Directorios y archivos de cache
+__pycache__/
+*.py[cod]
+*$py.class
